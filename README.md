@@ -1,9 +1,9 @@
 # AI Image Captioning (Deep Learning)
 <p>Here, Automatically generating natural language descriptions according to the content observed in an image, it combines the knowledge of computer vision and natural language processing.</p>
 <hr>
-<img src="https://github.com/lepsygoyal/ai_image_caption_bot/blob/main/Images/1.png" width="950" height="500" />
+<img src="https://github.com/Yatin-Git/Image_Caption/blob/main/static/out1.png" width="950" height="500" />
 <hr>
-<img src="https://github.com/lepsygoyal/ai_image_caption_bot/blob/main/Images/2.png" width="950" height="500" />
+<img src="https://github.com/Yatin-Git/Image_Caption/blob/main/static/out2.png" width="950" height="500" />
 <hr>
 
 <hr>
